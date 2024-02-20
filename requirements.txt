@@ -1,0 +1,2 @@
+streamlit==1.31.1
+google-generativeai # Replace with the actual version, if available
